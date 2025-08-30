@@ -22,7 +22,7 @@ body {
     font-size: 1.5em;
     border: none;
     outline: none;
-    background: #eee;
+    background: #eeeeee;
 }
 .buttons {
     display: grid;
@@ -39,11 +39,11 @@ button {
     border-radius: 5px;
 }
 button.operator {
-    background: orange;
+    background: rgb(0, 0, 0);
     color: white;
 }
 button.clear {
-    background: red;
+    background: black;
     color: white;
 }
 
